@@ -12,7 +12,7 @@
 -   Day 4: \[…\] *to be updated*
 
 > Note: press this [link to download all slides in
-> pdf](https://www.dropbox.com/sh/asn8sp0qf7f7rvl/AAAa_gBQuha513OQbTxsPHKMa?dl=1).
+> pdf](https://www.dropbox.com/sh/hrajgyb6e31b6cr/AAC2C8fpxlrfQGI70Q9tycy4a?dl=1).
 
 # Workshop examples
 
@@ -26,9 +26,9 @@
 
 ## Authors
 
-Carrasco, D., PhD, Centro de Medición MIDE UC Sandoval-Hernández, A.,
-PhD, Univeristy of Bath López-Hornickel, N., Doctoral student,
-Univeristy of Bath
+-   Carrasco, D., PhD, Centro de Medición MIDE UC
+-   Sandoval-Hernández, A., PhD, Univeristy of Bath
+-   López-Hornickel, N., Doctoral student, Univeristy of Bath
 
 # About
 
