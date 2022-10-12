@@ -12,7 +12,10 @@ output: github_document
   + [Introduction to ILSA](https://www.dropbox.com/s/b6jullktpr2k1ul/day_01_part_1_intro.pdf?dl=1)
   + [Data preparation, part 1](https://www.dropbox.com/s/errjks89w4flkeh/day_01_part_2_data_prep.pdf?dl=1)
   + [Data preparation, part 2](https://www.dropbox.com/s/xts1igppk6od75u/day_01_part_3_data_prep.pdf?dl=1)
-- Day 2: [...] *to be updated*
+- Day 2: Multilevel models with ILSA
+  + [MLM with ILSA](https://www.dropbox.com/s/xpsu9jt6fx7z6w6/day_02_part_1_MLM_w_ILSA.pdf?dl=1)
+  + [MLM exercises](https://www.dropbox.com/s/6kba1j6t806trw6/day_02_part_2_ILSA_MLM_exercises.pdf?dl=1)
+
 - Day 3: [...] *to be updated*
 - Day 4: [...] *to be updated*
 
