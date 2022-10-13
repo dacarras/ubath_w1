@@ -56,8 +56,8 @@
 ## Authors
 
 -   Carrasco, D., PhD, Centro de Medición MIDE UC
--   Sandoval-Hernández, A., PhD, Univeristy of Bath
--   López-Hornickel, N., Doctoral student, Univeristy of Bath
+-   Sandoval-Hernández, A., PhD, University of Bath
+-   López-Hornickel, N., Doctoral student, University of Bath
 
 # About
 
