@@ -22,7 +22,7 @@
         Example](https://www.dropbox.com/s/6uo1t5do1l4oaqo/day_02_part_3_mlm_paper_example.pdf?dl=1)
 -   Day 3: Latent Class Models with ILSA
     -   Part 1: **to be updated**
-    -   Part 2: [Latent Class Models application with
+    -   [Latent Class Models applications with
         ILSA](https://www.dropbox.com/s/h7aj6bujqhlg7wh/day_03_part_2_latent_classes.pdf?dl=1)
 -   Day 4: \[…\] *to be updated*
 
