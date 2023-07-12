@@ -50,7 +50,7 @@ output: github_document
 - Carrasco, D., PhD, Centro de Medición MIDE UC
 - Sandoval-Hernández, A., PhD, University of Bath
 - López-Hornickel, N., Doctoral student, University of Bath
-
+- Cristina Montero de Espinosa, Doctoral student, University of Exter
 
 # About
 
